@@ -1,0 +1,298 @@
+[
+  {
+    "chapter": "13",
+    "masu_hiragana": "およぎます",
+    "masu_kanji": "泳ぎます",
+    "te_hiragana": "およいで",
+    "te_kanji": "泳いで",
+    "meaning": "to swim"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "だします",
+    "masu_kanji": "出します",
+    "te_hiragana": "だして",
+    "te_kanji": "出して",
+    "meaning": "to take out (something)"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "あそびます",
+    "masu_kanji": "遊びます",
+    "te_hiragana": "あそんで",
+    "te_kanji": "遊んで",
+    "meaning": "to play"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "はいります",
+    "masu_kanji": "入ります",
+    "te_hiragana": "はいって",
+    "te_kanji": "入って",
+    "meaning": "to enter"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "むかえます",
+    "masu_kanji": "迎えます",
+    "te_hiragana": "むかえて",
+    "te_kanji": "迎えて",
+    "meaning": "to welcome"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "でます",
+    "masu_kanji": "出ます",
+    "te_hiragana": "でて",
+    "te_kanji": "出て",
+    "meaning": "to go out"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "つかれます",
+    "masu_kanji": "疲れます",
+    "te_hiragana": "つかれて",
+    "te_kanji": "疲れて",
+    "meaning": "be tired"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "けっこんします",
+    "masu_kanji": "結婚します",
+    "te_hiragana": "けっこんして",
+    "te_kanji": "結婚して",
+    "meaning": "to marry"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "かいものします",
+    "masu_kanji": "買い物します",
+    "te_hiragana": "かいものして",
+    "te_kanji": "買い物して",
+    "meaning": "to go shopping"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "しょくじします",
+    "masu_kanji": "食事します",
+    "te_hiragana": "しょくじして",
+    "te_kanji": "食事して",
+    "meaning": "to have a meal"
+  },
+  {
+    "chapter": "13",
+    "masu_hiragana": "さんぽします",
+    "masu_kanji": "散歩します",
+    "te_hiragana": "さんぽして",
+    "te_kanji": "散歩して",
+    "meaning": "to go for a walk"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "てつだいます",
+    "masu_kanji": "手伝います",
+    "te_hiragana": "てつだって",
+    "te_kanji": "手伝って",
+    "meaning": "to help"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "いそぎます",
+    "masu_kanji": "急ぎます",
+    "te_hiragana": "いそいで",
+    "te_kanji": "急いで",
+    "meaning": "to hurry"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "けします",
+    "masu_kanji": "消します",
+    "te_hiragana": "けして",
+    "te_kanji": "消して",
+    "meaning": "to delete"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "はなします",
+    "masu_kanji": "話します",
+    "te_hiragana": "はなして",
+    "te_kanji": "話して",
+    "meaning": "to speak"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "まちます",
+    "masu_kanji": "待ちます",
+    "te_hiragana": "まって",
+    "te_kanji": "待って",
+    "meaning": "to wait"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "もちます",
+    "masu_kanji": "持ちます",
+    "te_hiragana": "もって",
+    "te_kanji": "持って",
+    "meaning": "to take along (something)"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "よびます",
+    "masu_kanji": "呼びます",
+    "te_hiragana": "よんで",
+    "te_kanji": "呼んで",
+    "meaning": "to call"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "まがります",
+    "masu_kanji": "曲がります",
+    "te_hiragana": "まがって",
+    "te_kanji": "曲がって",
+    "meaning": "to turn (direction)"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "とります",
+    "masu_kanji": "取ります",
+    "te_hiragana": "とって",
+    "te_kanji": "取って",
+    "meaning": "to take"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "ふります",
+    "masu_kanji": "降ります",
+    "te_hiragana": "ふって",
+    "te_kanji": "降って",
+    "meaning": "to fall (snow)"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "つけます",
+    "masu_kanji": "点けます",
+    "te_hiragana": "つけて",
+    "te_kanji": "点けて",
+    "meaning": "to turn on"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "あけます",
+    "masu_kanji": "開けます",
+    "te_hiragana": "あけて",
+    "te_kanji": "開けて",
+    "meaning": "to open"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "みせます",
+    "masu_kanji": "見せます",
+    "te_hiragana": "みせて",
+    "te_kanji": "見せて",
+    "meaning": "to let others see"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "しめます",
+    "masu_kanji": "閉めます",
+    "te_hiragana": "しめて",
+    "te_kanji": "閉めて",
+    "meaning": "to close"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "とめます",
+    "masu_kanji": "止めます",
+    "te_hiragana": "とめて",
+    "te_kanji": "止めて",
+    "meaning": "to stop"
+  },
+  {
+    "chapter": "14",
+    "masu_hiragana": "はじめます",
+    "masu_kanji": "始めます",
+    "te_hiragana": "はじめて",
+    "te_kanji": "始めて",
+    "meaning": "to start"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "つかいます",
+    "masu_kanji": "使います",
+    "te_hiragana": "つかって",
+    "te_kanji": "使って",
+    "meaning": "to use"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "おきます",
+    "masu_kanji": "置きます",
+    "te_hiragana": "おいて",
+    "te_kanji": "置いて",
+    "meaning": "to place"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "たちます",
+    "masu_kanji": "立ちます",
+    "te_hiragana": "たって",
+    "te_kanji": "立って",
+    "meaning": "to stand"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "すみます",
+    "masu_kanji": "住みます",
+    "te_hiragana": "すんで",
+    "te_kanji": "住んで",
+    "meaning": "to live"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "すわります",
+    "masu_kanji": "座ります",
+    "te_hiragana": "すわって",
+    "te_kanji": "座って",
+    "meaning": "to sit"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "つくります",
+    "masu_kanji": "作ります",
+    "te_hiragana": "つくって",
+    "te_kanji": "作って",
+    "meaning": "to make"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "うります",
+    "masu_kanji": "売ります",
+    "te_hiragana": "うって",
+    "te_kanji": "売って",
+    "meaning": "to sell"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "しります",
+    "masu_kanji": "知ります",
+    "te_hiragana": "しって",
+    "te_kanji": "知って",
+    "meaning": "to know"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "けんきゅうします",
+    "masu_kanji": "研究します",
+    "te_hiragana": "けんきゅうして",
+    "te_kanji": "研究して",
+    "meaning": "to examine"
+  },
+  {
+    "chapter": "15",
+    "masu_hiragana": "おもいだします",
+    "masu_kanji": "思い出します",
+    "te_hiragana": "おもいだして",
+    "te_kanji": "思い出して",
+    "meaning": "to remember"
+  }
+]
