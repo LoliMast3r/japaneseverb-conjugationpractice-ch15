@@ -1,0 +1,53 @@
+/* Full screen background with your specific color */
+.home-container {
+  background-color: #27214f;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Hiragino Sans', 'Meiryo', sans-serif;
+  margin: 0;
+}
+
+/* Large title in the center */
+.main-title {
+  color: #ecf2f4;
+  font-size: 3.5rem;
+  margin-bottom: 3rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Button layout */
+.button-group {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+/* Shared button styles */
+.menu-button {
+  background-color: #4c175a;
+  color: #ecf2f4;
+  border: none;
+  padding: 15px 35px;
+  font-size: 1.2rem;
+  border-radius: 50px; /* High value for that rounded look */
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+  min-width: 160px;
+}
+
+/* Hover effects for a bit of "game" polish */
+.menu-button:hover {
+  background-color: #6a217d;
+  transform: translateY(-3px);
+}
+
+/* Optional: Make the Start button slightly more prominent */
+.start-button {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 18px 45px;
+}

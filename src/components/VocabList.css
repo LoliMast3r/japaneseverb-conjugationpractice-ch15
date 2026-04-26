@@ -1,0 +1,141 @@
+/* Container for the tabs and the home button */
+.menu-row {
+  display: flex;
+  justify-content: space-between; /* Pushes content to the edges */
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+/* Ensure the tab-view doesn't have its own bottom margin anymore */
+.tab-view {
+  display: flex;
+  background-color: rgba(76, 23, 90, 0.3);
+  padding: 8px;
+  border-radius: 50px;
+}
+
+/* Back to Home Button specifically */
+.back-home-button {
+  background-color: #4c175a;
+  color: #ecf2f4;
+  border: none;
+  padding: 12px 25px;
+  font-size: 1rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap; /* Prevents text from wrapping */
+}
+
+.back-home-button:hover {
+  background-color: #6a217d;
+  transform: scale(1.05);
+}
+
+.vocab-container {
+  background-color: #27214f;
+  min-height: 100vh;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.vocab-header {
+  color: #ecf2f4;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+
+.tab-button {
+  background: none;
+  border: none;
+  color: #ecf2f4;
+  padding: 10px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 40px;
+  transition: all 0.3s ease;
+}
+
+.tab-button.active {
+  background-color: #4c175a;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* 3-Column Grid */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Individual Tiles */
+.vocab-tile {
+  background-color: #4c175a;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid rgba(236, 242, 244, 0.1);
+  transition: transform 0.2s;
+}
+
+.vocab-tile:hover {
+  transform: translateY(-5px);
+  background-color: #5d1c6e;
+}
+
+.tile-row {
+  margin: 5px 0;
+  color: #ecf2f4;
+}
+
+.masu-row {
+  font-size: 1.3rem;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(236, 242, 244, 0.2);
+  padding-bottom: 8px;
+  width: 100%;
+}
+
+.te-row {
+  font-size: 1.1rem;
+  color: #ffcc00; /* Subtle accent color for the focus of the game */
+  margin-top: 10px;
+}
+
+.meaning-row {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  font-style: italic;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 900px) {
+  .vocab-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Tablet/Mobile adjustment: stack them if the screen is too narrow */
+@media (max-width: 768px) {
+  .menu-row {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .back-home-button {
+    width: 100%;
+    max-width: 200px;
+  }
+}

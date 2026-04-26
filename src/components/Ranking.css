@@ -1,0 +1,69 @@
+/* Reuse container and header styles from VocabList.css */
+
+.ranking-board {
+  width: 100%;
+  max-width: 800px;
+  background-color: rgba(76, 23, 90, 0.2);
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 0 auto;
+  border: 1px solid rgba(236, 242, 244, 0.1);
+}
+
+.ranking-header-row {
+  display: flex;
+  background-color: #4c175a;
+  padding: 15px 0;
+  font-weight: bold;
+  color: #ecf2f4;
+  text-align: center;
+}
+
+.ranking-row {
+  display: flex;
+  border-bottom: 1px solid rgba(236, 242, 244, 0.1);
+  min-height: 50px;
+  align-items: center;
+  transition: background-color 0.2s;
+}
+
+.ranking-row:last-child {
+  border-bottom: none;
+}
+
+.ranking-row:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.ranking-column, .ranking-cell {
+  flex: 1; /* Ensures equal 50/50 distribution */
+  text-align: center;
+  padding: 10px;
+  font-size: 1.1rem;
+}
+
+.ranking-cell {
+  color: #ecf2f4;
+}
+
+.loading-fade {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.loading-text {
+  text-align: center;
+  margin-top: 10px;
+  color: #ffcc00;
+  font-size: 0.9rem;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 600px) {
+  .ranking-board {
+    width: 95%;
+  }
+  .ranking-cell {
+    font-size: 0.9rem;
+  }
+}
