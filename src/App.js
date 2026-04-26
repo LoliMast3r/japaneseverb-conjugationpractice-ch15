@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter basename="/japaneseverb-conjugationpractice-ch15">
       <div className="App">
         <Routes>
           {/* Automatically redirect from "/" to "/home" */}
@@ -23,7 +23,7 @@ function App() {
           <Route path="/vocab" element={<VocabList />} />
         </Routes>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
