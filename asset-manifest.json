@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/japaneseverb-conjugationpractice-ch15/static/css/main.5c5428b7.css",
-    "main.js": "/japaneseverb-conjugationpractice-ch15/static/js/main.885d79ac.js",
+    "main.js": "/japaneseverb-conjugationpractice-ch15/static/js/main.aefe89b0.js",
     "index.html": "/japaneseverb-conjugationpractice-ch15/index.html",
     "main.5c5428b7.css.map": "/japaneseverb-conjugationpractice-ch15/static/css/main.5c5428b7.css.map",
-    "main.885d79ac.js.map": "/japaneseverb-conjugationpractice-ch15/static/js/main.885d79ac.js.map"
+    "main.aefe89b0.js.map": "/japaneseverb-conjugationpractice-ch15/static/js/main.aefe89b0.js.map"
   },
   "entrypoints": [
     "static/css/main.5c5428b7.css",
-    "static/js/main.885d79ac.js"
+    "static/js/main.aefe89b0.js"
   ]
 }
