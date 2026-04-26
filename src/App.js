@@ -1,5 +1,5 @@
 import React from 'react';
-// 1. Ensure BrowserRouter is imported correctly
+// 1. Correct the import to include BrowserRouter
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Home from './components/Home';
 import Game from './components/Game';
@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    /* 2. Use the exact basename matching your GitHub repository name */
+    // 2. Ensure the basename matches your GitHub repository name
     <BrowserRouter basename="/japaneseverb-conjugationpractice-ch15">
       <div className="App">
         <Routes>
